@@ -7,4 +7,5 @@ This program simulates 100 generations in the Game of Life.
 
 To compile:
 >> javac gameOfLife.java
+
 >> java gameOfLife
